@@ -2,7 +2,7 @@ import requests,pyfiglet,time
 print("""           Proxy
 """+pyfiglet.figlet_format('Scrape'))
 print('____________________')                    
-print("By @TweakPY - @Filza2")
+print("By @ittz_danyar - @tools_vip")
 print('____________________')
 p=int(input("Proxy Type\n\n[1]-http   [2]-https\n[3]-socks4 [4]-socks5\n> "))
 print('____________________')
